@@ -1,0 +1,117 @@
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v1.exe
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v1.pdb
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v1.xml
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.Form1.resources
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.Resources.resources
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.exe
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.xml
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.pdb
+P:\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.stock.resources
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.exe
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.xml
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.pdb
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v1.exe
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v1.pdb
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v1.xml
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.Form1.resources
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.Resources.resources
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.stock.resources
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.vbproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.about.resources
+C:\Users\Samsung\Desktop\Visual basic , distributeur\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.serialport_communication.resources
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.exe
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.pdb
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.xml
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.about.resources
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Form1.resources
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Resources.resources
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.serialport_communication.resources
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.stock.resources
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.exe
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.xml
+P:\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.pdb
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.exe
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.xml
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.pdb
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.exe
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.pdb
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.xml
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.about.resources
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Form1.resources
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Resources.resources
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.serialport_communication.resources
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.stock.resources
+F:\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.vbproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.xml
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.pdb
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.about.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Form1.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Resources.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.serialport_communication.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.stock.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.vbproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.exe
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.pdb
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.xml
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.exe
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.exe
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.xml
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.pdb
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.exe
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.pdb
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.xml
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.about.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Form1.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Resources.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.serialport_communication.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.stock.resources
+C:\Users\Samsung\Desktop\!!\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.vbproj.GenerateResource.Cache
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.exe
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.xml
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.pdb
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.about.resources
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Form1.resources
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Resources.resources
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.serialport_communication.resources
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.stock.resources
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.exe
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.pdb
+F:\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.xml
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.exe
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.xml
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.pdb
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.exe
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.pdb
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.xml
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.about.resources
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Resources.resources
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.serialport_communication.resources
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.stock.resources
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.vbproj.GenerateResource.Cache
+F:\uytututi\Visual basic , distributeur - final\Visual basic , distributeur - final\Programme\v2-comm\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.main.resources
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.exe
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.xml
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.pdb
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.exe
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.pdb
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.xml
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.about.resources
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.main.resources
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.Resources.resources
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.serialport_communication.resources
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.stock.resources
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v1.vbproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.exe.manifest
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\bin\Debug\Distributeur_v2.application
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.TrustInfo.xml
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.exe.manifest
+C:\Users\Samsung\Desktop\Mini-projet Distributeur\Final - RC\Programme\Distributeur_v1\Distributeur_v1\obj\x86\Debug\Distributeur_v2.application
