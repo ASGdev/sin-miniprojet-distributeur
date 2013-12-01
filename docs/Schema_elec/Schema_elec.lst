@@ -1,0 +1,9 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 01/12/2013 13:29:29
+#Cmp ( ordre = Référence )
+| -?         74HC/HCT688 
+| AFF?       LTS-6980HR  
+| D?         LED         
+| U?         PB          
+#End Cmp
+
+#End List
